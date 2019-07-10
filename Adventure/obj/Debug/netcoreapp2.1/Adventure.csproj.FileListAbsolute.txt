@@ -1,0 +1,11 @@
+C:\Users\dromero\Documents\GitHub\Text-Based-Adventure\Adventure\obj\Debug\netcoreapp2.1\Adventure.csprojAssemblyReference.cache
+C:\Users\dromero\Documents\GitHub\Text-Based-Adventure\Adventure\obj\Debug\netcoreapp2.1\Adventure.csproj.CoreCompileInputs.cache
+C:\Users\dromero\Documents\GitHub\Text-Based-Adventure\Adventure\obj\Debug\netcoreapp2.1\Adventure.AssemblyInfoInputs.cache
+C:\Users\dromero\Documents\GitHub\Text-Based-Adventure\Adventure\obj\Debug\netcoreapp2.1\Adventure.AssemblyInfo.cs
+C:\Users\dromero\Documents\GitHub\Text-Based-Adventure\Adventure\bin\Debug\netcoreapp2.1\Adventure.deps.json
+C:\Users\dromero\Documents\GitHub\Text-Based-Adventure\Adventure\bin\Debug\netcoreapp2.1\Adventure.runtimeconfig.json
+C:\Users\dromero\Documents\GitHub\Text-Based-Adventure\Adventure\bin\Debug\netcoreapp2.1\Adventure.runtimeconfig.dev.json
+C:\Users\dromero\Documents\GitHub\Text-Based-Adventure\Adventure\bin\Debug\netcoreapp2.1\Adventure.dll
+C:\Users\dromero\Documents\GitHub\Text-Based-Adventure\Adventure\bin\Debug\netcoreapp2.1\Adventure.pdb
+C:\Users\dromero\Documents\GitHub\Text-Based-Adventure\Adventure\obj\Debug\netcoreapp2.1\Adventure.dll
+C:\Users\dromero\Documents\GitHub\Text-Based-Adventure\Adventure\obj\Debug\netcoreapp2.1\Adventure.pdb
