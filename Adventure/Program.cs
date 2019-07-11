@@ -22,25 +22,23 @@ namespace Adventure
                                 "4. Ranger"); 
             int HeroClass = Convert.ToInt32(Console.ReadLine());
             System.Threading.Thread.Sleep(1000);
-            if (HeroClass == 1)
+            switch(HeroClass)
             {
-                Console.WriteLine("Ah, a wiley one are we?  We'll have to keep an eye on you Rogue "+HeroName);
-            }
-            else if(HeroClass == 2)
-            {
-                Console.WriteLine("Hello honorable one.  May your strengh keep us on task Knight "+HeroName);
-            }
-            else if(HeroClass == 3)
-            {
-                Console.WriteLine("Greetings Wizard "+HeroName+". May your magic guide us.");
-            }
-            else if(HeroClass==4)
-            {
-                Console.WriteLine("Oooh, you'll be great when adventuring out of towns.  Welcome Ranger "+HeroName);
-            }
-            else
-            {
-                Console.WriteLine("There were 4 options, and you couldn't even pick one?  Come on "+HeroName);
+                case 1:
+                    Console.WriteLine("Ah, a wiley one are we?  We'll have to keep an eye on you Rogue "+HeroName);
+                    break;
+                case 2:
+                    Console.WriteLine("Hello honorable one.  May your strengh keep us on task Knight "+HeroName);
+                    break;
+                case 3:
+                    Console.WriteLine("Greetings Wizard "+HeroName+". May your magic guide us.");
+                    break;
+                case 4:
+                    Console.WriteLine("Oooh, you'll be great when adventuring out of towns.  Welcome Ranger "+HeroName);
+                    break;
+                default:
+                    Console.WriteLine("There were 4 options, and you couldn't even pick one?  Come on "+HeroName);
+                    break;
             }
 
 
